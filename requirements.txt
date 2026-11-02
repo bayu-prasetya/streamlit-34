@@ -3,5 +3,5 @@ scikit-learn==1.8.0
 feature-engine==1.9.3
 imbalanced-learn==0.14.1
 category-encoders==2.8.1
-fastapi==0.139.0
 uvicorn==0.51.0
+streamlit==1.52.1
